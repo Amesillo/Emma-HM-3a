@@ -1,0 +1,6 @@
+Resultados del análisis de regresión lineal:
+B1: 0.140164
+B0: -4.603745
+Yk estimado: 49.50
+r: 0.948033
+r^2: 0.898767
